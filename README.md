@@ -280,3 +280,10 @@ Gestionan cómo los objetos interactúan y asignan responsabilidades para facili
         src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
     />
 </p>
+<footer>
+  <samp>
+    <p align="center">
+      © README.md by <a href="https://github.com/navyri" target="_blank">Navyri</a>.
+    </p>
+  </samp>
+</footer>
