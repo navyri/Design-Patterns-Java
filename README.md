@@ -5,9 +5,9 @@
   <img src="https://64.media.tumblr.com/53f3cdf8dd188057a8b0e8fad785483a/9883ef562fd81608-f0/s540x810/945f13364c67c4c79b5672ae72e6f13c409c17f5.gifv" alt="Misa Amane Death Note" />
 </p>
 <p align='center'>
-    <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=B97375&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
-    />
+    <img 
+        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
+    />
 </p>
 
 ### Descripción
@@ -23,9 +23,9 @@ Los **patrones de diseño** son estrategias reutilizables y probadas que resuelv
 - **Patrones de comportamiento:** Gestionan la comunicación efectiva y la asignación de responsabilidades entre objetos.
 
 <p align='center'>
-    <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=B97375&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
-    />
+    <img 
+        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
+    />
 </p>
 
 ### Patrones creacionales
@@ -130,10 +130,11 @@ Se centran en cómo se crean las instancias de objetos para garantizar control, 
    }
    ```
    Así se pueden crear distintos equipos según el líder
+
 <p align='center'>
-    <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=B97375&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
-    />
+    <img 
+        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
+    />
 </p>
 
 ### Patrones de comportamiento
@@ -273,8 +274,9 @@ Gestionan cómo los objetos interactúan y asignan responsabilidades para facili
 
    libreta.escribirNombre("L"); // Ryuk y Rem reciben la notificación
    ```
+
 <p align='center'>
-    <img 
-        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=B97375&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
-    />
+    <img 
+        src="https://capsule-render.vercel.app/api?type=rect&height=5&color=80354A&reversal=false&fontAlignY=40&fontColor=FFFFFF&fontSize=60"
+    />
 </p>
